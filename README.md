@@ -10,3 +10,4 @@ Project is created with:
 * MongoDB (Database)
 
 ## About
+* The frontend and the backend communicates with the help of *axios* package
