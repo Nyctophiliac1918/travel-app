@@ -1,7 +1,4 @@
-# Snapwiz-project
-
-## General info
-Assignment submission for Snapwiz
+# Travel App
 	
 ## Technologies
 Project is created with:
